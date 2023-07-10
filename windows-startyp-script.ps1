@@ -13,5 +13,6 @@
  choco install docker -y
  choco install docker-compose -y
  choco install docker-for-windows -y
+ choco install postman -y
 
  npm install typescript -g
